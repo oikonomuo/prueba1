@@ -1465,4 +1465,22 @@ img {
         font-size: 0.95rem;
         padding: 0 10px;
     }
+
+    .section {
+        padding: 60px 0;
+    }
+
+    .section-title {
+        font-size: clamp(1.8rem, 6vw, 2.5rem);
+    }
+
+    .cmodal-body {
+        padding: 20px 16px;
+    }
+
+    .hero-cta {
+        flex-direction: column;
+        gap: 12px;
+        padding: 0 24px;
+    }
 }
