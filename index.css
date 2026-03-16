@@ -1450,4 +1450,19 @@ img {
     .process-step {
         gap: 20px;
     }
+
+    .title-line {
+        font-size: clamp(2.5rem, 8vw, 5rem);
+        word-break: break-word;
+        padding: 0;
+    }
+
+    .hero-title {
+        margin-bottom: 16px;
+    }
+
+    .hero-subtitle {
+        font-size: 0.95rem;
+        padding: 0 10px;
+    }
 }
