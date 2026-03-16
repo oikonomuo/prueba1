@@ -353,6 +353,7 @@ img {
     font-size: clamp(3rem, 10vw, 7rem);
     font-weight: 900;
     letter-spacing: 8px;
+    padding: 0 0.1em;
 }
 
 .title-accent {
